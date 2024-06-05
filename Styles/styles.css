@@ -1,5 +1,12 @@
+@font-face {
+    font-family: "Blackberry";
+    src: url("Fonts/blackberry-normal_version_02.otf") format("opentype");
+    font-style: normal;
+    font-weight: normal;
+}
+
 body {
-    font-family: Arial, sans-serif;
+    font-family: "Blackberry";
     margin: 0;
     padding: 0;
 }
